@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class MissingChar {
     public String missingChar(String str, int n) {

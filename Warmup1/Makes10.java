@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class Makes10 {
     public boolean makes10(int a, int b) {

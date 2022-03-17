@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class LoneTeen {
     public boolean loneTeen(int a, int b) {

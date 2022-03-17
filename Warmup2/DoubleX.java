@@ -1,4 +1,4 @@
-package Warmup_2;
+package Warmup2;
 
 public class DoubleX {
     boolean doubleX(String str) {

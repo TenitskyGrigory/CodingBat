@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class PosNeg {
     public boolean posNeg(int a, int b, boolean negative) {

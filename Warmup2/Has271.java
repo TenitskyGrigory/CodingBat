@@ -1,4 +1,4 @@
-package CodingBat.Warmup2;
+package Warmup2;
 
 public class Has271 {
     public boolean has271(int[] nums) {

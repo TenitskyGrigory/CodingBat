@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class Max1020 {
     public int max1020(int a, int b) {

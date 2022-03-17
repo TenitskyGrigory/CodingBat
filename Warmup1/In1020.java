@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class In1020 {
     public boolean in1020(int a, int b) {

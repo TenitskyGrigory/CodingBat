@@ -1,4 +1,4 @@
-package CodingBat.Array_1;
+package Array_1;
 
 public class CommonEnd {
     public boolean commonEnd(int[] a, int[] b) {

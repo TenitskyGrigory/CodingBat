@@ -1,4 +1,4 @@
-package Warmup_2;
+package Warmup2;
 
 public class ArrayFront9 {
     public boolean arrayFront9(int[] nums) {

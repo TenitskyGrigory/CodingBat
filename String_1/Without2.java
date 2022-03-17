@@ -1,4 +1,4 @@
-package CodingBat.String_1;
+package String_1;
 
 public class Without2 {
     public String without2(String str) {

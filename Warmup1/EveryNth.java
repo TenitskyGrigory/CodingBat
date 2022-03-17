@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class EveryNth {
     public String everyNth(String str, int n) {

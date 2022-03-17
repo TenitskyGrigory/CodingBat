@@ -1,4 +1,4 @@
-package CodingBat.String_1;
+package String_1;
 
 public class NTwice {
     public String nTwice(String str, int n) {

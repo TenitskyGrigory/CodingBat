@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class MonkeyTrouble {
     public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {

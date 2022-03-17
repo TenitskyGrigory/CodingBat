@@ -1,4 +1,4 @@
-package CodingBat.Array_1;
+package Array_1;
 
 public class FirstLast6 {
     public boolean firstLast6(int[] nums) {

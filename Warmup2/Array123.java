@@ -1,4 +1,4 @@
-package Warmup_2;
+package Warmup2;
 
 public class Array123 {
     public boolean array123(int[] nums) {

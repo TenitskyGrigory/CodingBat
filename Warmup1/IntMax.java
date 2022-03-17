@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class IntMax {
     public int intMax(int a, int b, int c) {

@@ -1,4 +1,4 @@
-package CodingBat.Warmup2;
+package Warmup2;
 
 public class Array667 {
     public int array667(int[] nums) {

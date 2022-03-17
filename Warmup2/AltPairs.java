@@ -1,4 +1,4 @@
-package CodingBat.Warmup2;
+package Warmup2;
 
 public class AltPairs {
     public String altPairs(String str) {

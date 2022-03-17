@@ -1,4 +1,4 @@
-package CodingBat.String_1;
+package String_1;
 
 public class StartWord {
     public String startWord(String str, String word) {

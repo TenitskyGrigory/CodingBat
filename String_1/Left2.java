@@ -1,4 +1,4 @@
-package CodingBat.String_1;
+package String_1;
 
 public class Left2 {
     public String left2(String str) {

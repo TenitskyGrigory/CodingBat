@@ -1,4 +1,4 @@
-package CodingBat.Warmup1;
+package Warmup1;
 
 public class LastDigit {
     public boolean lastDigit(int a, int b) {

@@ -1,4 +1,4 @@
-package CodingBat.Warmup2;
+package Warmup2;
 
 public class NoTriples {
     public boolean noTriples(int[] nums) {

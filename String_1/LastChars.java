@@ -1,4 +1,4 @@
-package CodingBat.String_1;
+package String_1;
 
 public class LastChars {
     public String lastChars(String a, String b) {

@@ -1,4 +1,4 @@
-package Warmup_2;
+package Warmup2;
 
 public class ArrayCount9 {
     public int arrayCount9(int[] nums) {
