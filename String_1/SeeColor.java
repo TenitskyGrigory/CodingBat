@@ -2,18 +2,10 @@ package String_1;
 
 public class SeeColor {
     public String seeColor(String str) {
-        if(str.equals("red")) {
-            return str;
-        }
-        if(str.length() <= 3) {
-            return "";
-        }
-        String a = str.substring(0,3);
-        String b = str.substring(0,4);
-        if(a.equals("red")) {
+        if(str.startsWith("red", 0)) {
             return "red";
         }
-        else if (b.equals("blue")) {
+        if(str.startsWith("blue", 0)) {
             return "blue";
         }
         return "";
